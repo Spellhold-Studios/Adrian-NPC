@@ -1,55 +1,59 @@
-# Windows image file caches
-# =========================
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-# ==================
-Desktop.ini
-
-# Recycle Bin used on file shares
-# ===============================
-$RECYCLE.BIN/
-
-# Windows Installer files
-# =======================
-
-# Windows shortcuts
-# =================
-*.lnk
-
-# =======================
-# Operating System Files
-# =======================
-
-# OSX
-# ===
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-# ==========
-._*
-
-
-# =================
-# ignore all files
-# =================
-*.bak
-*.bat
-*.csv
-# *.7z
+# Archives
+*.7z
+*.bz2
+*.gz
+*.iemod
 *.rar
+*.tgz
 *.zip
-*.exe
-dev_notes.txt
-z*.*
-todo*.*
 
+# Backup
+*.bak
+*.old
+*.tmp
 
-# ========================================
-# ignore all files in any directory named
-# ========================================
-legacy/
+# Office
+*.xlk
+.~lock.*#
+Backup of *.doc*
+~$*.doc*
+~$*.xls*
+
+# Linux
+*~
+.Trash-*
+.directory
+.fuse_hidden*
+.nfs*
+
+# macOS
+*.icloud
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.DocumentRevisions-V100
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+._*
+.apdisk
+.com.apple.timemachine.donotpresent
+.fseventsd
+Network Trash Folder
+Temporary Items
+
+# Windows
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+
+# WeiDU
+[Ss]etup-*.exe
