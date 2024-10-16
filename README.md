@@ -94,10 +94,10 @@ Adrian is Lawful Evil by alignment, but your experience with him may vary. While
 
 **Contributors**
 
-- MiLeah &nbsp;&ndash;&nbsp; portrait
-- Phaelin & Tatterdemalion &nbsp;&ndash;&nbsp; optional voicing
 - Gwendolyne &nbsp;&ndash;&nbsp; coding and maintenance (versions 4.3–5.0)
 - jastey &nbsp;&ndash;&nbsp; coding and maintenance (versions 6.0–6.1)
+- MiLeah &nbsp;&ndash;&nbsp; portrait
+- Phaelin & Tatterdemalion &nbsp;&ndash;&nbsp; optional voicing
 
 **Translators**
 
