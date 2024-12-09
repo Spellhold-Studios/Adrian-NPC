@@ -99,10 +99,10 @@ Adrian is Lawful Evil by alignment, but your experience with him may vary. While
 - MiLeah &nbsp;&ndash;&nbsp; portrait
 - Phaelin & Tatterdemalion &nbsp;&ndash;&nbsp; optional voicing
 
-**Translators**
+**Translators**  
 
-- Ixyon &nbsp;&ndash;&nbsp; French
-- Belryll &nbsp;&ndash;&nbsp; German (SoA)
+- **French**:&nbsp; Ixyon
+- **German**:&nbsp; Belryll
 
 **Special Acknowledgements**
 
