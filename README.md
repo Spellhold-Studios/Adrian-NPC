@@ -68,7 +68,7 @@ Adrian is Lawful Evil by alignment, but your experience with him may vary. While
 </picture>
 
 |  Ability  | Score |
-| :-------- | :---- |
+| :-------: | :---: |
 | STR       | 12    |
 | DEX       | 16    |
 | CON       | 10    |
