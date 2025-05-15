@@ -1,5 +1,5 @@
 [![Release](https://img.shields.io/github/v/release/Spellhold-Studios/Adrian-NPC?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/Adrian-NPC/releases/latest)
-[![Published](https://img.shields.io/github/release-date/Spellhold-Studios/Adrian-NPC?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/Adrian-NPC/releases/latest)
+[![Published](https://img.shields.io/github/release-date-pre/Spellhold-Studios/Adrian-NPC?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/Adrian-NPC/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/Adrian-NPC/total?color=%2392403a)](https://github.com/Spellhold-Studios/Adrian-NPC/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Adrian-NPC/releases)
 [![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Adrian-NPC/releases)
